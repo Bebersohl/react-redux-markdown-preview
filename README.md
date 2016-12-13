@@ -1,3 +1,6 @@
-## Markdown Previewer
+## react-redux-markdown-preview
+Markdown previewer
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+### usage
+1. npm install
+2. npm start
